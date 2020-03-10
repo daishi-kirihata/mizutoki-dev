@@ -1,3 +1,6 @@
 django
 django-allauth
 pillow
+reportlab
+qrcode
+pyzbar
