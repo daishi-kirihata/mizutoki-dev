@@ -16,7 +16,7 @@ file.profile = {
     'gender':True,
     'birthDate':date(1991, 2, 3),
     'photo':None
-}
+}qui
 file.contacts = [
     {
         'postalCode':'529-0523',
