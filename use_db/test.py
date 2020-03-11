@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-from lib.db import DbConnectionBase
+from db import DbConnectionBase
 import MySQLdb
 
 db = DbConnectionBase.DbConnectionBase('TEST')
