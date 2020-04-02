@@ -1,0 +1,154 @@
+会社（かいしゃ）とは、日本法上、株式会社、合名会社、合資会社及び合同会社をいう。
+また、外国法における類似の概念（イギリスにおけるcompany、アメリカにおけるcorporationなど）の訳語としても用いられる。
+本稿では、日本法上の会社に加え、それに類似する各国の会社形態についても記述する。
+目次1日本1.1会社の定義1.2会社の通有的性質1.3「会社」の沿革1.4会社の数1.5廃止された会社形態1.6会社類似の社団法人1.7社団法人2アメリカ合衆国3イギリス4ドイツ5フランス6ルクセンブルク7欧州経済領域8各国の会社9脚注9.1注釈9.2出典10参考文献11関連項目日本[編集]会社の定義[編集]会社法施行後においては、株式会社、合名会社、合資会社および合同会社の4つが会社とされている（会社法2条1号）。
+いずれも、登記（商業登記）によって成立する。
+従来は、商法第2編で定められていた株式会社、合名会社および合資会社（さらに昔は株式合資会社も）に加え、昭和13年に制定された有限会社法で有限会社の設立が認められていたが、2005年（平成17年）制定の新会社法で有限会社は株式会社に統合された[1][注釈 1]。
+それとともに、出資者の有限責任が確保され、会社の内部関係については組合的規律が適用される新たな会社形態として合同会社が新設された[2]。
+会社法が施行される前は、会社は商法上は「商行為ヲ為スヲ業トスル目的ヲ以テ設立シタル社団」と定義され、株式会社、合資会社および合名会社の3種（株式合資会社の廃止前はこれを含む4種）とされていた。
+それに加えて有限会社も株式会社と同様に出資者を有限責任とする有限会社法の規定によって設立された会社であった。
+また「営利ヲ目的トスル社団」で商法第2編（会社）の規定によって設立された商行為をなすを業としないもの、営利目的であるが商法上の商行為に該当しない農林水産業などを営むもの（民事会社）も会社とみなされた。
+結局、学説においては会社の定義を「営利を目的とする社団法人」としていた。
+会社の通有的性質[編集]日本法上の会社の通有的性質として、営利を目的とする社団法人であるという点が挙げられる[3]。
+法人性法人とは、団体自身の名において権利を有し義務を負う資格があることをいう[4]。
+もっとも、常に自然人と同様の権利能力を有するわけではなく、性質上又は法令による制限を受けるほか、定款に定められた目的によって制限を受ける。
+そして、目的外の行為は無効となるのが原則である（ウルトラ・ヴィーレスの法理）。
+かつては、判例は定款の目的条項を厳格に解釈していたが、後に柔軟な解釈をするようになり、今日では会社の行為が目的外であるとして無効とされることはまずない[5]。
+また、法人格の濫用又は法人格の形骸化が認められる場合には、判例上、法人格が否認されることがある（法人格否認の法理）[6]。
+営利法人性営利法人とは、事業を行い、それによって得た利益を出資者に分配することを目的とする法人をいう[7]。
+社団性社団とは、伝統的な民法学説によると、構成員が、構成員どうしの契約によって結び付くのではなく、団体との関係（社員関係）を介して間接的に結び付く団体をいう。
+この点で、構成員どうしの契約関係で結び付く組合と区別される。
+もっとも、会社が社団であるという場合には、もはやこのような民法学説は前提とすることができないと考えられている。
+そもそも合名会社や合資会社には組合類似の規律がなされているからである。
+会社における社団性とは、単に人の集まりという意味（すなわち、財団とは異なり、構成員（社員）が存在するということ）以上のものではないと考えられている。
+社団の構成員を社員といい[注釈 2]、会社の社員（株式会社においては株主と呼ばれる。
+）は会社の出資者であり、会社の経営に対する最終的なコントロール権が付与されている[8]。
+「会社」の沿革[編集]明治時代、「会社」の語は、英語のcompanyの訳語としても用いられる一方で、大陸法の組合＝会社概念（羅societas、仏société、独Gesellschaft）の訳語として用いられた。
+すなわち、旧民法財産取得編第6章「会社」は会社契約（現在の組合契約）の規定を置き、民事目的の会社、すなわち民事会社（現在の民法上の組合。
+ただし、営利目的・事業・職業目的に限定される点、法人化することができる点において現在の新民法とは大きく異なる。
+）について規律し、商事目的の会社、すなわち商事会社については商法に規定を委ねていた（ただし、民事会社であっても「資本を株式に分つとき」は商法の規定が準用された。
+）。
+そして、これを受けて商法は会社（商事会社）として合名会社や株式会社の規定をおいた。
+
+明治29年制定の新民法においては、政府案においてはやはり「会社」の語が用いられたが、衆議院にて「組合」に改められた。
+こうして、民法の「組合」と商法の「会社」というように、異なる語が用いられることとなったのである。
+当初、商行為主義が採られていたことから、商法上は、会社とは、商行為を業として為すを目的とするもの（いわゆる商事会社）に限られる一方で、民法において、商法の会社の規定に従って営利目的社団法人（合名会社や株式会社）を設立することができる旨の規定がおかれ（いわゆる民事会社）、後に、商法にも民事会社の規定が置かれて商事会社と同様に商人として扱われることが明確化され、ついには民法から民事会社の規定が削除されるに至り、現在の会社法では商行為目的か否かによる区別は全くおかれていない。
+会社の数[編集]2008年（平成20年）10月末現在、会社法上の会社は334万1000社（清算中の会社を除く）あり、うち株式会社（特例有限会社を除く）が139万4000社、合名会社が1万8000社、合資会社が8万5000社、合同会社が、1万4000社である[9]。
+また、2007年（平成19年）において、会社法上の会社の設立件数は10万1981件、うち株式会社が9万5363件（93.5%）、合名会社が52件（0.0%）、合資会社が490件（0.5%）、合名会社が6076件（6.0%）であった[10]。
+廃止された会社形態[編集]株式合資会社（昭和25年改正前商法、昭和26年7月1日に改正法が施行されてから、5年の経過期間を経て廃止）有限会社（旧有限会社法、2006年（平成18年）5月1日に会社法施行によって廃止され、株式会社の一種である「特例有限会社」として存続）会社類似の社団法人[編集]以下のは社団法人、会社と同種のもの又は会社に類似するものであり、いずれも商法上の商人と位置付けられる。
+特定目的会社資産の流動化に関する法律に基づき設立される、資産流動化取引のための特別目的会社としての利用が想定された社団法人。
+投資法人投資信託及び投資法人に関する法律に基づき設立される、会社型投資信託のための特別目的会社としての利用が想定された社団法人。
+会社と同じく商人である。
+外国会社外国の法律に準拠して設立された社団法人。
+会社と同種のもの又は会社に類似するものである。
+社団法人[編集]以下の社団法人は、名称に「会社」を含んでいる、もしくは持分会社の規定を準拠しているという特徴を有するが、いずれも会社ではなく、商法上の商人にも該当しない。
+相互会社保険業法に基づき設立される、保険会社としての利用が想定された社団法人。
+社団法人であるが、社員と保険の加入者が一致する構造であることから、営利(対外的営利活動による利益の分配)を目的としない。
+監査法人・税理士法人・弁護士法人・司法書士法人・行政書士法人・特許業務法人・土地家屋調査士法人・社会保険労務士法人それぞれ公認会計士法、税理士法、弁護士法、司法書士法、行政書士法、弁理士法、土地家屋調査士法、社会保険労務士法に基づき設立される特殊な法人であり、持分会社の規定の一部を各士業の特性に合わせて準用している。
+法人の利益を社員に分配し得るため営利法人に分類されるが、当該社員の資格は原則として国家資格保有者に限定されており、上記の根拠法に基づき種々の規制が課せられるため、その営利性は会社よりも限定的である。
+アメリカ合衆国[編集]アメリカ合衆国における会社形態で、最も一般的なのが、コーポレーション(corporation) であり、法人格を有し株主の有限責任が認められている点で日本の株式会社に近い。
+公開会社 (publicly held corporation) の数は1万社から1万5000社、一方、閉鎖会社 (closely held corporation) は400万社以上と推定されている。
+公開会社は数の上では少ないが、1万社前後の公開会社によってアメリカの事業資産の90%以上が所有されているとされる[11]。
+ジェネラル・パートナーシップは、無限責任を負う組合員（partner）のみからなり、リミテッド・パートナーシップは無限責任組合員（general partner）と有限責任組合員（limited partner）からなる。
+1994年統一パートナーシップ法によると、ジェネラル・パートナーシップは、物的財産及び人的財産をその名において所有し、また、その名において訴え、あるいは訴えられることができるなどとされている[12]。
+また、1970年代以降に各州で生まれたLLC(limited liability company) は、出資者全員の有限責任が認められると同時に、機関設計や意思決定手続が柔軟で、パススルー課税[注釈 3]が認められることから、近年、中小規模の会社形態として選ばれることが増えている[13]。
+イギリス[編集]2006年会社法（Companies Act 2006）における会社（company）は以下のように分類される。
+このほか、特別法や勅許による会社（company）が存在する。
+有限責任会社（limited company）株式有限責任会社（「株式会社」とも）（company limited by shares）：日本の株式会社に相当保証有限責任会社（「保証会社」、「保証有限会社」、「担保有限会社（中：擔保有限公司）」とも）（company limited by guarantee）：株式資本（share capital）を有するものとそうでないものがある。
+無限責任会社（unlimited company）：日本の合名会社に相当また、次のような分類もある。
+公開会社（public company）：株式有限責任会社（company limited by shares）と株式資本を有する保証有限責任会社（company limited by guarantee and having a share capital）のうち、基本定款（certificate of incorporation）において公開会社である旨の定めをおき、かつ、公開会社としての登記又は再登記に関する一定の要件を充足するもの。
+有限責任公開会社（public limited company）：公開会社である有限責任会社。
+原則として、その名称に"public limited company"又は"p.l.c."（ウェールズの会社については、"cwmnicyfyngedig cyhoeddus"又は"c.c.c."も可。
+）を付さなければならない。
+私会社（private company）：公開会社以外の会社。
+有限責任私会社（private limited company）：原則として、その名称に"limited"又は"ltd."（ウェールズの会社については"cyfyngedig"又は"cyf."も可。
+）を付さなければならない。
+株式有限責任私会社（private company limited by shares）は有限会社に相当する。
+このほか、ジェネラル・パートナーシップは、無限責任を負う組合員（partner）のみからなり、合名会社に相当する。
+リミテッド・パートナーシップは無限責任組合員（general partner）と有限責任組合員（limited partner）からなり、合資会社に相当する。
+また、各組合員の責任が限定されたリミテッド・ライアビリティ・パートナーシップ（limited liability partnership; LLP）も創設されており、これは法人格を有する点で他のパートナーシップと異なるが、合同会社や有限責任事業組合に相当する。
+ドイツ[編集]ドイツ法では、組合（Gesellschaft）（会社（Handelsgesellschaft）を含む。
+）は資本会社（独:Kapitalgesellschaft）と人的組合（独:Personengesellschaft：定訳は人的会社だが、ここでは便宜上このように訳す。
+）に区別される。
+また、会社（Handelsgesellschaft）のうち、人的組合（独:Personengesellschaft）であるものは、人的会社（Personenhandelsgesellschaft）という。
+資本会社（独:Kapitalgesellschaft）：法人格を有し、法人課税が適用される。
+株式会社（独:Aktiengesellschaft;AG）：ドイツの株式法（AktG）を根拠法とし、会社（Handelsgesellschaft）とみなされる。
+一人会社が許容される。
+有限会社（独:Gesellschaft mit beschränkter Haftung;GmbH）：ドイツの有限会社法（GmbHG）を根拠法とし、会社（Handelsgesellschaft）とみなされる。
+一人会社が許容される。
+有限責任事業者会社（独:Unternehmergesellschaft (haftungsbeschränkt);UG (haftungsbeschränkt)：定訳はない）：2008年の改正有限会社法により創設された、EUR 1.00の資本金で設立できる“ミニ有限会社”（独:"Mini-GmbH"）。
+一人会社が許容される。
+株式合資会社（独:Kommanditgesellschaft auf Aktien;KGaA）：ドイツの株式法（AktG）において、無限責任社員と株主からなる株式会社 (AG) の特殊形態とされる。
+無限責任社員が会社を代表し業務執行を行い、監査役会(Aufsichtsrat)が業務を監査する。
+有限責任の法人を無限責任社員とすることで、事実上有限責任の会社形態として利用することもできる。
+株式・株式合資会社 (AG & Co. KGaA): AGを無限責任社員とするKGaA有限株式合資会社 (GmbH & Co. KGaA): GmbHを無限責任社員とするKGaAStiftung & Co. KGaA：財団法人を無限責任社員とするKGaA人的組合（独:Personengesellschaft）：法人格は有せず、構成員課税が適用される。
+人的会社（独:Personenhandelsgesellschaft）合名会社（独:offene Handelsgesellschaft;OHG）：ドイツの商法典（HGB）を根拠法とする会社（Handelsgesellschaft）。
+法人格は有しないにもかかわらず、法的主体性を有する。
+量販体制での事業経営を目的とする民法組合 (GbR) は自動的に OHG と見なされる。
+有限責任の法人を無限責任社員とすることで、事実上有限責任の会社形態として利用することもできる。
+AG & Co. OHG : AGを無限責任社員とするOHG有限合名会社 (GmbH & Co. OHG): GmbHを無限責任社員とするOHG合資会社（独:Kommanditgesellschaft;KG）：ドイツの商法典（HGB）を根拠法とする会社（Handelsgesellschaft）で、合名会社 (OHG) の特殊形態とされる。
+OHG と同様に法人格は有しないにもかかわらず、法的主体性を有する。
+有限責任の法人を無限責任社員とすることで、事実上有限責任の会社形態として利用することもできる。
+株式・合資会社 (AG & Co. KG): AGを無限責任社員とするKG有限合資会社 (GmbH & Co. KG): GmbHを無限責任社員とするKGUG (haftungsbeschränkt) & Co. KG : UGを無限責任社員とするKGStiftung & Co. KG：財団法人を無限責任社員とするKG人的会社以外の人的組合は省略。
+フランス[編集]フランス法においては、民法典により、組合（société；「会社」との訳もある。
+）は、「出資から生じることのある利益を分配し、又は節約の利益を得るために、共同事業に財産又は労務を出資することを契約により合意する2名又は数名の者によって、設立される。
+」として、民事組合（société civile；「民事会社」との訳も）と匿名組合（société en participation）が規定されている。
+さらに、商法（Code de commerce）により、組合のうち、形態又は目的に照らして商事性を有するものは会社（société commerciale；「商事会社」との訳もある。
+）とされる（なお、会社法（la loi no 66-537 du 24 juillet 1966 sur les sociétés commerciales；「商事会社法」との訳もある。
+）施行前は原則として商行為を目的とするか否かにより商事性の有無が区別された。
+）。
+会社（商事会社）は、登記によって法人格を取得する。
+また、会社（商事会社）は、商人として扱われることとなる。
+その形態によって、目的にかかわらず当然に会社（商事会社）とされるものは以下のとおり。
+株式制会社（仏:société par actions：定訳はない。
+）：これらの会社形態では法人課税が適用される。
+株式会社に相当。
+株式会社（仏:société anonyme;SA）簡易株式制会社（仏:société par actions simplifiée;SAS：定訳はない）：株主総会と代表者は必置の機関であるが、取締役会等の機関について定款自治が認められている（設置義務がない）。
+1994年の法改正で新たに創設された会社形態。
+合弁会社や子会社としての利用を想定し、当初は設立時社員を2社以上の会社としていたが、1999年の法改正で社員資格を自然人に拡大し、一人簡易株式制会社（仏:SASU, SAS unipersonnelle）が許容されるようになった。
+株式合資会社（仏:société en commandite par actions;SCA）：株主 (commanditaires) と、株主から選任される無限責任社員 (commandités) とで構成される。
+無限責任社員は株主でもある。
+無限責任社員は商人資格（商行為を為し得る地位）を有する。
+無限責任社員の指名と株主の同意を得て選任される取締役 (gérant)が会社の業務執行を行い、取締役は株主で構成される監査役会 (conseil de surveillance)によって監督される。
+無限責任社員が本人自身を取締役に指名することもある。
+有限会社（仏:société à responsabilité limitée;SARL）：1925年にドイツ法における有限会社（GmbH）に倣ってフランスに導入された。
+1985年の法改正により一人有限会社（仏:SARL unipersonnelle、実務上は有限責任一人企業EURL, Entreprise unipersonnelle à responsabilité limitéeと呼ばれる）が許容されている。
+法人課税が適用される。
+（単純）合資会社（仏:société en commandite simple;SCS）：フランスの税法では原則として無限責任社員に限り構成員課税である。
+法人課税を選択することもできる。
+合名会社（仏:société en nom collectif;SNC）：フランスの税法では原則として構成員課税である。
+法人課税を選択することもできる。
+以上のほか、民事組合（民事会社）（仏:société civile;SC）や匿名組合（仏:société en participation;SEP）、事実上の会社（société de fait）については目的によって会社（商事会社）とされ得るが、いずれも法人格を付与されることはない。
+ルクセンブルク[編集]会社法（la loi du 10 août 1915 concernant les sociétés commerciales）では、商行為を目的とする組合（société）が会社（société commerciale）（「商事会社」との訳もある。
+）である。
+また、民事目的においても合名会社、（単純）合資会社、株式会社、株式合資会社、有限会社又は協同会社を設立することができ、その場合にはその取引は商事的なものとして商事法・商慣習に服することとなる（日本におけるかつての民事会社に相当）。
+会社（société commerciale）固有の意味における会社（société commerciale proprement dite）：法人格を有する。
+合名会社（société en nom collectif）（単純）合資会社（société en commandite simple）株式会社（société anonyme）株式合資会社（société en commandite par actions）有限会社（société à responsabilité limitée）協同組合（société coopérative）欧州会社（société européenne (SE)）：後述商事社団（association commerciale）：法人格を有しない。
+商事当座社団（association commerciale momentanée）商事匿名社団（association commerciale en participation）欧州経済領域[編集]欧州経済領域では、欧州会社法に基づく会社形態欧州会社（羅:Societas Europaea (SE)）：株式会社に相当その他のEU規則に基づく会社形態欧州経済利益団体（英:European economic interest grouping (EEIG),仏:Groupement européen d'intérêt économique (GEIE),独:Europäische wirtschaftliche Interessenvereinigung (EWIV)）：フランス法における経済利益団体 (GIE) に倣って欧州経済領域に導入された。
+欧州協同組合（羅:Societas Cooperativa Europaea (SCE)）：協同組合に相当各国の会社[編集]各国の主として営利目的に利用される一般的な会社、組合の形態をおおざっぱに整理したものである。
+各国の会社、組合法域有限責任の構成員のみから構成されるもの有限責任の構成員と無限責任の構成員から構成されるもの無限責任の構成員のみから構成されるもの公開型の株式会社に相当するもの閉鎖型の株式会社に相当するものその他株式合資会社に相当するもの合資会社に相当するもの合名会社に相当するものその他アメリカ合衆国デラウェア州close corporationslimited liability companieslimited partnershipsgeneral partnershipsstock corporations日本公開会社公開会社でない株式会社合同会社N/A合資会社合名会社株式会社有限責任事業組合大韓民国주식회사 / 株式會社유한회사 / 有限會社합자회사 / 合資會社합명회사 / 合名會社中国本土上市公司の股份有限公司（設立時2～200名の発起人）上市公司ではない股份有限公司（設立時2～200名の発起人）一人有限責任公司（一個人または一法人が株主）国有独資公司（政府単独出資）有限責任公司（2～50名の株主）有限合作企業普通合作企業全民所有制企業集団所有制企業香港公衆股份有限公司/public companies limited by shares私人股份有限公司/private companies limited by shares無股本的担保有限公司/companies limited by guarantee not having a share capital有股本的私人無限公司/private companies unlimited by shares有股本的公衆無限公司/public companies unlimited by shares台湾股份有限公司有限公司兩合公司無限公司欧州経済領域諸国Societas EuropaeaN/AN/AN/AN/Ala groupement européen d'intérêt économique/ european economic interest groupings/ die Europäische wirtschaftliche Interessenvereinigungベルギーla société anonyme/ de naamloze vennootschapla société privée à responsabilité limitée/ besloten vennootschap met beperkte aansprakelijkheidla société en commandite par actions/ commanditaire vennootschap op aandelenla société en commandite simple/ Gewone commanditaire vennootschapla société en nom collectif/vennootschap onder firmaデンマークaktieselskaberanpartselskaberkommanditselskabinteressentskabドイツdie Aktiengesellschaftdie Gesellschaft mit beschränkter Haftungdie Kommanditgesellschaft auf Aktiendie Kommanditgesellschaftdie offene Handelsgesellschaftギリシャανώνυμη εταιρίαεταιρία περιομένης ευθύνηςετερόρρυθμος εταιρίαομόρρυθμος εταιρίαスペインla sociedad anónimala sociedad de responsabilidad limitadala sociedad comanditariala sociedad colectivaフランス共和国la société anonymela société à responsabilité limitéela société en commandite par actionsla société en commandite simplela société en nom collectifla société par actions simplifiéela groupement d'intérêt économiqueアイルランドpublic companies limited by sharesprivate companies limited by sharescompanies limited by sharespublic companies limited by guarantee having a share capitalprivate companies limited by guarantee having a share capitalcompanies limited by guarantee having a share capitalイタリアsocietà per azionisocietà a responsabilità limitatasocietà in accomandita per azionisocietà in accomandita semplicesocietà in nome collettivoルクセンブルクla société anonymela société à responsabilité limitéela société en commandite par actionsla société en commandite simplela société en nom collectifオランダde naamloze vennootschapde besloten vennootschap met beperkte aansprakelijkheidde commanditaire vennootschapde vennootschap onder firmaオーストリアdie Aktiengesellschaftdie Gesellschaft mit beschränkter Haftungdie Kommanditgesellschaftdie offene Gesellschaftポルトガルa sociedade anónima de responsabilidade limitadaa sociedade por quotas de responsabilidade limitadaa sociedade em comandita por acçõesa sociedade em comandita simplesa sociedade em nome colectivoフィンランドjulkinen osakeyhtiö/ publikt aktiebolagkommandiittiyhtiö/kommanditbolagavoin yhtiö/öppet bolagosakeyhtiö / aktiebolagスウェーデンpublikt aktiebolagkommanditbolaghandelsbolagaktiebolagイギリスpublic companies limited by sharesprivate companies limited by shareslimited liability partnershipsN/Alimited partnershipsgeneral partnershipscompanies limited by sharespublic companies limited by guarantee having a share capitalprivate companies limited by guarantee having a share capitalcompanies limited by guarantee not having a share capitalunlimited companiescompanies limited by guarantee having a share capitalcompanies limited by guaranteeスイスdie Aktiengesellschaft/ la société anonyme/ società anonimadie Gesellschaft mit beschränkter Haftung/ la société à responsabilité limitée/ società a garanzia limitatadie Kommanditaktiengesellschaft/ la société en commandite par actions/ società in accomandita per azionidie Kommanditgesellschaft/ la société en commandite/ società in accomanditadie Kollektivgesellschaft/ la société en nom collectif/ società in nome collettivo脚注[編集][ヘルプ]注釈[編集]^有限会社法は会社法の施行（2006年5月1日）に伴って廃止され、従来の有限会社（旧有限会社）は、株式会社として存続することとされた（会社法の施行に伴う関係法律の整備等に関する法律2条1項）。
+この株式会社は、商号中に「有限会社」という文字を用いることとされ、特例有限会社と呼ばれる（同法3条）。
+また「株式会社」へと商号変更することにより通常の株式会社に移行することもできる（同法45条）。
+^法学上、社員とは社団の構成員を指し、日常用語にいう社員が従業員を指すのとは異なる。
+神田 (2009: 6-7)。
+^通常の法人課税では、企業の利益に対し所得課税がされた上で、株主が企業から受け取る配当についても、株主個人の所 得課税が行われる（二重課税）のに対し、パススルー課税(pass through taxation) とは、企業に損益が生じた時点でこれを株主に帰属したものとみなし、企業に対する課税は行わず、株主に対する所得課税のみを行うものである。
+Hamilton (2000: 28-30)。
+出典[編集]^概要・第2の1(1)。
+^会社法575条以下、概要・第2の4(1)。
+^神田 (2009: 4-7) 参照。
+^神田 (2009: 4)。
+会社法3条参照。
+^神田 (2009: 5)。
+^神田 (2009: 4-5)。
+^神田 (2009: 5-6)。
+^神田 (2009: 6)。
+^神田 (2009: 8)。
+^2007年商業・法人登記統計（第33表 会社及び登記の種類別 会社の登記の件数(XLS)）。
+^Hamilton (2000: 377)。
+^Hamilton (2000: 11-12)。
+^Hamilton (2000: 23-26, 40-41)。
+参考文献[編集]神田秀樹『会社法』弘文堂〈法律学講座双書〉、2009年、第11版。
+ISBN 4-335-30247-9。
+Hamilton, Robert W. (2000).The Law of Corporations in a Nutshell(Fifth Edition ed.). West Group.ISBN 0-314-24132-9.関連項目[編集]ウィクショナリーに関連の辞書項目があります。
+会社ウィキソースに会社の語源の原文があります。
+会社法企業企業一覧ブランディングコーポレートアイデンティティ( CI )表話編歴日本の法人営利会社（会社法）株式会社（特例有限会社-第三セクター） -持分会社（合同会社-合資会社-合名会社）士業監査法人-特許業務法人-弁護士法人-税理士法人-土地家屋調査士法人-司法書士法人-社会保険労務士法人-行政書士法人その他特定目的会社-特殊会社-投資法人-地方共同法人非営利税制優遇なし一般社団法人（非非営利型） -一般財団法人（非非営利型） -相互会社税制優遇あり生活衛生同業組合・連合会-生活衛生同業小組合-共済水産業協同組合連合会-漁協・連合会-漁業生産組合-商工組合・連合会-商店街振興組合・連合会-消費生活協同組合・連合会-信用金庫・連合会-森林組合・連合会-水産加工業協同組合・連合会-生産森林組合-船主相互保険組合-たばこ耕作組合-中小企業等協同組合（事業協同組合・連合会-事業協同小組合・連合会-信用協同組合・連合会）-内航海運組合・連合会-農協・連合会-農事組合法人-農林中金-輸出組合-輸出水産業組合-輸入組合-労働金庫・連合会非収益事業は非課税NPO法人-認定NPO法人★ -一般社団法人（非営利型） -一般財団法人（非営利型） -公益社団法人★ -公益財団法人★ -学校法人★ -医療法人-宗教法人-社会福祉法人★ -貸金業協会-委託者保護基金-管理組合法人-企業年金基金・連合会-危険物保安技術協会-行政書士会・連合会-漁業共済組合・連合会-漁業信用基金協会-漁船保険組合・中央会-勤労者財産形成基金-軽自動車検査協会-健康保険組合・連合会-原賠支援機構-原発環境整備機構-高圧ガス保安協会-広域臨海環境整備センター-厚生年金基金-更生保護法人★ -小型船舶検査機構-国家公務員共済組合・連合会-国民健康保険組合・連合会-国民年金基金・連合会-市街地再開発組合-自転車競技会-自動車安全運転センター★ -司法書士会・連合会-社会保険労務士会・連合会-住宅街区整備組合-酒造組合・中央会・連合会-酒販組合・中央会・連合会-商工会・連合会-商工会議所・日本商工会議所-商工組合・連合会-商品先物取引協会-消防団員等公務災害補償等共済基金-職員団体-職業訓練法人-信用保証協会-生活衛生同業組合・連合会-政党-税理士会・日税連-石炭鉱業年金基金-全国健康保険協会-船員災害防止協会-全国市町村職員共済組合連合会--損害保険料率算出団体-地方競馬全国協会-地方公務員共済組合・連合会-地方公務員災害補償基金-中央職業能力開発協会-中央労働災害防止協会-中小企業団体中央会-投資者保護基金-独立行政法人★ -土地改良事業団体連合会-土地家屋調査士会・連合会-都道府県職業能力開発協会--日本勤労者住宅協会-日本公認会計士協会-日本消防検定協会-日本私立学校振興・共済事業団★ -日赤★ -日本電気計器検定所-日本弁理士会-認可金融商品取引業協会-認可地縁団体-農業共済組合・連合会-・連合会-農業信用基金協会-農水産業協同組合貯金保険機構-負債整理組合-弁護士会・日弁連-防災街区整備事業組合-保険契約者保護機構-マンション建替組合-水先人会・連合会-輸出組合-輸入組合-預金保険機構-労働組合-労働災害防止協会非課税沖縄振興開発金融公庫-国際協力銀行-政策公庫-港務局★ -国立大学-社会保険診療報酬支払基金-水害予防組合-水害予防組合連合-大学共同利用機関法人-地方公共団体★ -地方公共団体金融機構-地方住宅供給公社-地方道路公社-地方独立行政法人★ -財務大臣指定の独立行政法人★ -土地開発公社-土地改良区・連合-土地区画整理組合-日本下水道事業団-日本司法支援センター★ -JRA-日本年金機構-NHK★ 寄附金の税制特例（特定公益増進法人） -法人税法-寄附金控除。
